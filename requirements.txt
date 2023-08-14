@@ -1,0 +1,4 @@
+jupyter
+pandas
+yahoo_fin
+Jinja2
