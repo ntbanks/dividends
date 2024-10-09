@@ -1,4 +1,4 @@
-# Dividend Roth Analysis
+# Dividend Roth Analysis!
 This notebook gets quote/dividend data from the Yahoo Finance API and runs analysis on dividend returns for different securities.
 
 ## Setup
